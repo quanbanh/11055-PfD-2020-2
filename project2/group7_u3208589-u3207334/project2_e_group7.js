@@ -1,6 +1,6 @@
 
  
-/*main()*/
+/*primary()*/
 
 // wait for the process happens before adding the book detail into the collection of books 
 async function primary() {
